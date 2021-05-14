@@ -5,8 +5,13 @@
 				<div class="container-fluid">
 					<a href="#" class="brand">
 						<small>
+<<<<<<< HEAD
 						<i class="icon-user"></i>
 							<b>HALAMAN Admin PPDB SMKN 1 MAJU PINTAR</b>
+=======
+							<i class="icon-leaf"></i>
+							Ace Admin
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
 						</small>
 					</a><!--/.brand-->
 
@@ -222,11 +227,18 @@
 
 						<li class="light-blue">
 							<a data-toggle="dropdown" href="#" class="dropdown-toggle">
+<<<<<<< HEAD
 								<img class="nav-user-photo" src="<?php echo base_url('assets/ace/avatars/matir.jpg');?>" alt="Jason's Photo" />
 								<span class="user-info">
 									<small>Welcome,</small>
 								admin smkn 1 agak pintar
 								</span>
+=======
+								<img class="nav-user-photo" src="<?php echo base_url('assets/ace/avatars/user.jpg');?>" alt="Jason's Photo" />
+								<span class="user-info">
+									<small>Welcome,</small>
+									Jason
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
 								</span>
 
 								<i class="icon-caret-down"></i>

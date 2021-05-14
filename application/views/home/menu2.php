@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -36,6 +37,8 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+=======
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
 <div id="menu" class="container-fluid text-center">
   
   <h4></h4>

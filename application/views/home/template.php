@@ -19,10 +19,16 @@
 	
 </head>
 <style>.navbar-default {
+<<<<<<< HEAD
     background-color: #80e1ff;
     border-color: #80e1ff;
     font-family: Arial;
 	box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+=======
+    background-color: #9932CC;
+    border-color: #00FFFF;
+    font-family: Arial;
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
 }</style>
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
 	

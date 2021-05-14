@@ -5,7 +5,11 @@
 
 
 		<meta charset="utf-8" />
+<<<<<<< HEAD
 		<title>PPDB SMKN 1 MAJU PINTAR</title>
+=======
+		<title>Ranger PPDB</title>
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
 
 
 <script src="<?php echo base_url('assets/tinymce/js/tinymce/tinymce.dev.js');?>" />

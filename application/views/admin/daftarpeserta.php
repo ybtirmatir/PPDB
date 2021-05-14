@@ -29,9 +29,12 @@
 					<th>Status</th>
 					
 					<th align="center">Aksi</a></th>
+<<<<<<< HEAD
 					<th align="center">KETERANGAN</a></th>
 					<th align="center">LULUS/TIDAK LULUS</a></th>
 					
+=======
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
 				</tr>
 			</thead>
 			<tbody>
@@ -55,12 +58,15 @@
 					
 					
 					<td><a href="<?php echo site_url('admin/download/'.$peserta->dokumen);?>">Download Lampiran</a></td>
+<<<<<<< HEAD
 					<td><?php echo $peserta->keterangan;?></td>
 					<td><a href="<?php echo site_url('admin/luluspeserta/'.$peserta->id_peserta);?>"><span class= "btn btn-sm btn-primary">Lulus</span></a>
 					<a href="<?php echo site_url('admin/tidakluluspeserta/'.$peserta->id_peserta);?>"><span class= "btn btn-sm btn-danger">Tidak Lulus</span></a></td>
 
 
 
+=======
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
 					
 					</td>
 					

@@ -9,6 +9,7 @@
       <a class="navbar-brand" data-toggle="modal" data-target="#myModal" href="#"></a>
 	   </div>
     <div class="collapse navbar-collapse" id="myNavbar">
+<<<<<<< HEAD
     <ul class="nav navbar-nav navbar-left">
       
       <li><a href="#"></a></li>
@@ -18,6 +19,12 @@
       
         <li><a href="#"></a></li>
         <li><a class="navbar-brand" data-toggle="modal" data-target="#myModal" href="#"><button class="btn btn-pink">LOGIN ADMIN</a></li>
+=======
+      <ul class="nav navbar-nav navbar-right">
+      
+        <li><a href="#"></a></li>
+        <li><a class="navbar-brand" data-toggle="modal" data-target="#myModal" href="#"><span class="btn btn-warning">Login Admin</a></li>
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
       </ul>
     </div>
   </div>

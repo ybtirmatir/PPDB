@@ -54,22 +54,34 @@
     color: #ffffff;
 }
 .bg-3 { 
+<<<<<<< HEAD
     background-color: #80e1ff; /* White */
     padding-bottom: 50px;
     padding top: 20px 50px;
     margin-top: 30%;
     margin-bottom: 20px;
     color: #ffffff;
+=======
+    background-color: #ffffff; /* White */
+    color: #555555;
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
 }
 
 .container-fluid {
     padding: 120px 50px;
+<<<<<<< HEAD
     margin-top: -5px 20px;
     margin-bottom: 10px;
 }
 
 .navbar {
     padding-top: -4px;
+=======
+}
+
+.navbar {
+    padding-top: 15px;
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
     padding-bottom: 15px;
     border: 0;
     border-radius: 0;
@@ -95,7 +107,11 @@ p {font-size: 20px;}
 
 .logo {
 	color: #bf00ff;
+<<<<<<< HEAD
     font-size: 40px;
+=======
+    font-size: 200px;
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
 }
 
 .logo-small {

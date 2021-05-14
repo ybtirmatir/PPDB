@@ -439,7 +439,11 @@ class Admin extends CI_Controller
 		{
 			$data['keterangan'] = 'Lulus';
 			$this->admin_model->up_biodata($id_peserta,$data);
+<<<<<<< HEAD
 			redirect('admin/daftarpeserta');
+=======
+			redirect('admin/jalurzonasi');
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
 		}
 		else
 		{
@@ -456,7 +460,11 @@ class Admin extends CI_Controller
 		{
 			$data['keterangan'] = 'Tidak Lulus';
 			$this->admin_model->up_biodata($id_peserta,$data);
+<<<<<<< HEAD
 			redirect('admin/daftarpeserta');
+=======
+			redirect('admin/jalurzonasi');
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
 		}
 		else
 		{

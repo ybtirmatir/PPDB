@@ -20,16 +20,24 @@
 </head>
 <style>
 .navbar-inverse {
+<<<<<<< HEAD
     background-color: #80e1ff;
     border-color: #80e1ff;
+=======
+    background-color: #9932CC;
+    border-color: #080808;
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
     position: fixed;
     right: 0;
     left: 0;
     z-index: 1030;
     margin-bottom: 0;
     font-family: Arial;
+<<<<<<< HEAD
 	color : white;
 	box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+=======
+>>>>>>> 122220129a40f2bd7831da915e22e615a0517795
 }</style>
 <body>
 		<div class="container">
